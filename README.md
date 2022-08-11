@@ -66,3 +66,4 @@ q4r à [0,1] quaternion 4 for the belt wearable
 
 ### Challenge: 
 - We want to leverage this growing data lake of unlabelled data into an algorithm that allows us to gain more insights in the movements that were performed. How would you go about this?
+- 
