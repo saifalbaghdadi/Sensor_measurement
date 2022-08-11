@@ -1,5 +1,6 @@
 # Spinewise Project   _ (Sensor_measurement)_
-Context dataset: in attach there is a dataset of sensor measurement data of a person wearing our sensor on his/her shirt collar and on his/her right side of his/her belt. The person is doing a certain set of movements in a controlled environment. The dataset contains the following columns (it looks like a lot but a lot is coming back):
+### Context dataset: 
+- In attach there is a dataset of sensor measurement data of a person wearing our sensor on his/her shirt collar and on his/her right side of his/her belt. The person is doing a certain set of movements in a controlled environment. The dataset contains the following columns (it looks like a lot but a lot is coming back):
 
 index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s)
 
@@ -56,7 +57,7 @@ q3r à [0,1] quaternion 3 for the belt wearable
 q4r à [0,1] quaternion 4 for the belt wearable
 
 
-Below is an image for a clearer representation of the 3 axes of our wearable, and where the wearable was placed.
+- Below is an image for a clearer representation of the 3 axes of our wearable, and where the wearable was placed.
 
 ![Img](data/img/1.png)
 
