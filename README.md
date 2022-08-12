@@ -1,4 +1,4 @@
-# Spinewise Project   _ (Sensor_measurement)_
+# Spinewise Project    (Sensor_measurement)
 ### Context dataset: 
 ##### In attach there is a dataset of sensor measurement data of a person wearing our sensor on his/her shirt collar and on his/her right side of his/her belt. 
 ##### The person is doing a certain set of movements in a controlled environment. 
