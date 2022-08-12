@@ -10,14 +10,14 @@
   * acc_x_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the ground.
   * acc_y_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the left-hand side.
   * acc_z_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the front.
-  * 
+   
 <br>
 
 *
   * gyr_x_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the ground (clockwise).
   * gyr_y_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the left-hand side (clockwise).
   * gyr_z_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the front (clockwise).
-  * 
+  
 <br>
 
 * 
