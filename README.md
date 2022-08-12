@@ -6,6 +6,9 @@
 
 - index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s).
 
+<br>
+
+*
   * acc_x_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the ground.
   * acc_y_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the left-hand side.
   * acc_z_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the front.
@@ -19,34 +22,35 @@
   
 <br>
 
+*
   * mag_x_n à [earths magnetic field – nanoTesla nT] Magnetic field measurement in the neck/collar wearable towards the ground.
   * mag_y_n à [earths magnetic field – nanoTesla nT] Magnetic field measurement in the neck/collar wearable towards the left-hand side.
   * mag_z_n à [earths magnetic field – nanoTesla nT] Magnetic field measurement in the neck/collar wearable towards the front.
 
 <br>
 
-
+*
   * acc_x_r à same acceleration sensor as above but for the belt wearable, with the axis pointing towards the ground.
   * acc_y_r à same acceleration sensor as above but for the belt wearable, with the axis pointing towards the back.
   * acc_z_r à same acceleration sensor as above but for the belt wearable, with the axis pointing towards the left-hand side of the person.
 
 <br>
 
- 
+*
   * gyr_x_r à same angular velocity sensor as above, but for the belt wearable around the axis pointing to the ground (clockwise).
   * gyr_y_r à same angular velocity sensor as above, but for the belt wearable around the axis pointing to the back (clockwise).
   * gyr_z_r à same angular velocity sensor as above, but for the belt wearable around the axis pointing to the left-hand side of the person (clockwise).
 
 <br>
 
- 
+*
   * mag_x_r à same magnetic field sensor as above, but for the belt wearable around the axis pointing to the ground.
   * mag_y_r à same magnetic field sensor as above, but for the belt wearable around the axis pointing to the back.
   * mag_z_r à same magnetic field sensor as above, but for the belt wearable around the axis pointing to the left-hand side of the person.
 
 <br>
 
-
+*
   * q1n à [0,1] quaternion 1 for the neck/collar wearable – the four dimensions of a quaternion provide the orientation of the wearable, devised from fusing multiple sensor values together (acc, gyr, mag) (representing this in a 3 dimensional vector results in a pitfall under certain conditions, i.e. Gimball lock).
   * q2n à [0,1] quaternion 2 for the neck/collar wearable.
   * q3n à [0,1] quaternion 3 for the neck/collar wearable.
@@ -54,7 +58,7 @@
 
 <br>
 
-
+*
   * q1r à [0,1] quaternion 1 for the belt wearable.
   * q2r à [0,1] quaternion 2 for the belt wearable.
   * q3r à [0,1] quaternion 3 for the belt wearable.
