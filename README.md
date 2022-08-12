@@ -71,8 +71,12 @@ Below is an image for a clearer representation of the 3 axes of our wearable, an
 
 ### Context data lake: 
 -------------
-- This is a dataset in a controlled environment, there is a video available so we can manually label the movements that the person was doing during the recording. However, this is not our only dataset. This dataset is around 2 MBs in size, while our data lake currently contains 10s of GBs of this kind of data and it continues to grow. Only a very small portion of this data is in a controlled environment (with video), say 0.01%.  
+- This is a dataset in a controlled environment, there is a video available so we can manually label the movements that the person was doing during the recording.
+However, this is not our only dataset. 
+This dataset is around 2 MBs in size, while our data lake currently contains 10s of GBs of this kind of data and it continues to grow. 
+Only a very small portion of this data is in a controlled environment (with video), say 0.01%.  
 
 ### Challenge: 
 -------------
-- We want to leverage this growing data lake of unlabelled data into an algorithm that allows us to gain more insights in the movements that were performed. How would you go about this?
+- We want to leverage this growing data lake of unlabelled data into an algorithm that allows us to gain more insights in the movements that were performed. 
+How would you go about this?
