@@ -4,22 +4,22 @@
 ##### The person is doing a certain set of movements in a controlled environment. 
 ##### The dataset contains the following columns (it looks like a lot but a lot is coming back):
 
-- index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s)
+- index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s).
 
- 
+*
+
   * acc_x_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the ground.
   * acc_y_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the left-hand side.
   * acc_z_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the front.
    
 <br>
 
-
+*
   * gyr_x_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the ground (clockwise).
   * gyr_y_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the left-hand side (clockwise).
   * gyr_z_n à [angular velocity ω - radian/s] average angular velocity during the sample taking (0.04s) in the neck/collar wearable around the axis pointing to the front (clockwise).
   
 <br>
-
 
   * mag_x_n à [earths magnetic field – nanoTesla nT] Magnetic field measurement in the neck/collar wearable towards the ground.
   * mag_y_n à [earths magnetic field – nanoTesla nT] Magnetic field measurement in the neck/collar wearable towards the left-hand side.
