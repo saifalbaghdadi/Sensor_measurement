@@ -6,8 +6,6 @@
 
 - index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s).
 
-*
-
   * acc_x_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the ground.
   * acc_y_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the left-hand side.
   * acc_z_n à [gravitational gravity g – 9.81 m/s²] acceleration in the neck/collar wearable with the axis pointing towards the front.
