@@ -1,6 +1,7 @@
 # Spinewise Project   _ (Sensor_measurement)_
 ### Context dataset: 
-- In attach there is a dataset of sensor measurement data of a person wearing our sensor on his/her shirt collar and on his/her right side of his/her belt. The person is doing a certain set of movements in a controlled environment. The dataset contains the following columns (it looks like a lot but a lot is coming back):
+- In attach there is a dataset of sensor measurement data of a person wearing our sensor on his/her shirt collar and on his/her right side of his/her belt. 
+The person is doing a certain set of movements in a controlled environment. The dataset contains the following columns (it looks like a lot but a lot is coming back):
 
 index à [integer increments] index in the dataset: one sample/record/row is created every 0.04 seconds (25 samples/s)
 
