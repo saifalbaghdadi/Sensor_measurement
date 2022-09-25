@@ -82,3 +82,5 @@ Only a very small portion of this data is in a controlled environment (with vide
 ### Challenge: 
 -------------
 We want to leverage this growing data lake of unlabelled data into an algorithm that allows us to gain more insights in the movements that were performed.
+
+
